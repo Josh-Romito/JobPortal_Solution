@@ -1,0 +1,30 @@
+﻿body {
+    background: #ffffff;
+    color: #111111;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 20px;
+}
+
+form ul {
+    list-style: none;
+    margin: 0;
+}
+
+    form ul li {
+        margin-bottom: 10px;
+    }
+
+        form ul li span {
+            display: block;
+            float: left;
+            width: 150px;
+            line-height: 24px;
+        }
+
+section {
+    border-style: solid;
+}
+
+footer {
+    padding: 4px;
+}
