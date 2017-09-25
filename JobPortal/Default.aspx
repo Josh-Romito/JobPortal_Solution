@@ -23,8 +23,8 @@
                                 <asp:TextBox ID="tbUsername" runat="server"></asp:TextBox>
                             </li>
                             <li>
-                                <asp:Label ID="Label2" runat="server" Text="Password: "></asp:Label>
-                                <asp:TextBox ID="tbPassword" runat="server"></asp:TextBox>
+                                <asp:Label TextMode="Password" ID="Label2" runat="server" Text="Password: "></asp:Label>
+                                <asp:TextBox TextMode="Password" ID="tbPassword" runat="server"></asp:TextBox>
                             </li>
                             <li>
                                 <asp:Label ID="Label3" runat="server" Text="Confirm Password: "></asp:Label>
